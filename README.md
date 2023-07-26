@@ -111,11 +111,3 @@ Java Create/Write Files
 Java Read Files
 
 Java Delete Files
-
-# Java How To
-1) Add Two Numbers
-2) Count Words
-3) Reverse a String
-4) Sum of Array Elements
-5) Area of Rectangle
-6) Even or Odd Number
